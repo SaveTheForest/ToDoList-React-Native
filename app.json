@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Tasks",
+    "slug": "Tasks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b39d972e-2b18-4b83-a935-cbb0e57db221"
+      }
+    }
+  }
+}

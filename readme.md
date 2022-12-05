@@ -21,9 +21,9 @@ Video do projeto
 Prints do projeto
 
 <div>
-  <img style="margin: 5px" alt="login" src="" width="200">
-  <img style="margin: 5px" alt="register" src="" width="200">
-  <img style="margin: 5px" alt="dashboard" src="" width="200">
+  <img style="margin: 5px" alt="home" src="" width="200">
+  <img style="margin: 5px" alt="delete" src="" width="200">
+ 
 </div>
 
 ---
@@ -42,11 +42,11 @@ O projeto foi feito utilizando das seguintes tecnologias
 
 ## Funcionalidades
 
-- Adicionar Tasks
+- Adicionar Tasks.
 
-- Deletar Tasks
+- Deletar Tasks.
 
-- Botão indicador de Tasks completadas
+- Botão indicador de Tasks feitas.
 
 
 
